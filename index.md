@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zanzibar
 
 You can use the [editor on GitHub](https://github.com/mefarazath/mefarazath.github.io/edit/zanzibar/index.md) to maintain and preview the content for your website in Markdown files.
 
